@@ -7,7 +7,7 @@ virtualization host running a separate Active Directory lab.
 Built and cut over in 2026. This document covers the design, the
 reasoning behind it, and what went wrong along the way.
 
-<!-- Insert diagrams/topology.png here once exported from Visio -->
+![Network topology](diagrams/topology.png)
 
 ---
 
